@@ -42,7 +42,7 @@ const HomeScreen = () => {
       screen: 'Screen1',
     },
     {
-      label: 'Invites',
+      label: 'update profile',
       icon: require('../../assets/images/events.png'), // Adjust path based on your project
       screen: 'Screen2',
     },
